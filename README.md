@@ -64,8 +64,8 @@
 
 ## 📫 联系我
 
-- 📧 邮箱：[添加你的邮箱]()
-- 📝 博客：[添加你的博客]()
+- 📧 邮箱：[572752189@qq.com](mailto:572752189@qq.com)
+- 📝 博客：[https://github.com/fengyinxqy](https://github.com/fengyinxqy)
 - 📚 学习笔记：[MySQL 学习笔记](https://github.com/fengyinxqy/study)
 
 ---
