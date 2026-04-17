@@ -9,16 +9,7 @@
 <!-- 统计数据 -->
 <div align="center">
   
-![Streak Stats](https://streak-stats.demolab.com/?user=fengyinxqy&theme=light&hide_border=true)
-
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffengyinxqy%2Ffengyinxqy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
-</div>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fengyinxqy&show_icons=true&theme=light&hide_border=true)](https://github.com/fengyinxqy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengyinxqy&layout=compact&theme=light&hide_border=true)](https://github.com/fengyinxqy)
 
 </div>
 
@@ -73,7 +64,5 @@
 <div align="center">
 
 **🎉 欢迎关注我，一起交流学习！**
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffengyinxqy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 </div>
